@@ -153,7 +153,7 @@ document.getElementById("By").onclick = function () {
 };
 async function menuju() {
   window.location =
-    "https://api.whatsapp.com/send?phone=6282138682214&text=Love%20you%20sayang";
+    "https://api.whatsapp.com/send?phone=6282138682214&text=Love%20you%20sayang%20xixixi💗♥❤";
 }
 
 opsLclick = 0;
